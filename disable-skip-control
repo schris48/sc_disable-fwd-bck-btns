@@ -1,0 +1,13 @@
+.vjs-control vjs-button vjs-skip-back{
+  display: none;
+}
+
+.vjs-control vjs-button vjs-skip-ahead{
+  display: none;
+}
+
+/* Size the player */
+.video-js {
+  width: 640px;
+  height: 360px;
+}

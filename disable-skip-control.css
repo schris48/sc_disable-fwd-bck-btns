@@ -1,8 +1,8 @@
-.vjs-control vjs-button vjs-skip-back{
+.vjs-button.vjs-skip-back{
   display: none;
 }
 
-.vjs-control vjs-button vjs-skip-ahead{
+.vjs-button.vjs-skip-ahead{
   display: none;
 }
 
